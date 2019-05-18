@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Destinasi</string>
+    <string name="detail">Detail</string>
+    <string name="share">share</string>
+    <string name="canada">Canada</string>
+    <string name="desc">desc</string>
+    <string name="mohamad_faisal_kholid">Mohamad Faisal Kholid</string>
+    <string name="ditulis">Author</string>
+    <string name="tanggal">22/06/2019</string>
+    <string name="author_faisal_kholid">Author : Faisal Kholid</string>
+    <string name="view">389.587</string>
+</resources>
